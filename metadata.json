@@ -1,0 +1,7 @@
+{
+  "name": "Nusantara News AI",
+  "description": "Professional Indonesian TV News Scriptwriter powered by Gemini 2.5 and 3.0 Pro. Features video analysis, real-time news brainstorming, and text-to-speech narration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
